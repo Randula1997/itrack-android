@@ -92,7 +92,7 @@ export default function Login() {
           }}
           buttonTextAfterSelection={(selectedItem, index) => {
             return selectedItem;
-          }}
+           }}
           rowTextForSelection={(item, index) => {
             return item;
           }}

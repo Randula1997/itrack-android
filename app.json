@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "myapp",
-    "slug": "myapp",
+    "name": "itrack",
+    "slug": "itrack",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,11 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.randula97.myapp"
+      "package": "com.randula97.itrack",
+      "useNextVersion": true,
+      "config": {
+        "sdkVersion": "30.0.0"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"

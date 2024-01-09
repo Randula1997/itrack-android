@@ -9,7 +9,6 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@dashdoc/react-native-system-sounds": "^1.1.0",
     "@expo/webpack-config": "^19.0.0",
     "@react-native-async-storage/async-storage": "^1.21.0",
     "@react-navigation/native": "^6.1.9",
@@ -22,10 +21,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "^0.72.6",
-    "react-native-camera": "^4.2.1",
-    "react-native-camera-kit": "^13.0.0",
     "react-native-select-dropdown": "^3.4.0",
-    "react-native-sqlite-storage": "^6.0.1",
     "react-native-table-component": "^1.2.2",
     "react-native-web": "~0.19.6",
     "sync-storage": "^0.4.2"
